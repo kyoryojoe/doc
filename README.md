@@ -1,4 +1,4 @@
-KyoRyoJoe/App
+KyoRyoJoe/Doc
 ===========
 
 これはKyoRyoJoeのドキュメントです。
