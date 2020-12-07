@@ -5,7 +5,7 @@ KyoRyoJoe/Doc
 ----
 
 [kyoryojoe](https://github.com/kyoryojoe/app)は地方自治体による直営橋梁点検の業務をサポートする[オープンソースソフトウェア](https://ja.wikipedia.org/wiki/オープンソースソフトウェア)です。
-[ライセンス](license.md)の範囲で、どなたでも無償で利用することができます。
+[ライセンス](doc/license.md)の範囲で、どなたでも無償で利用することができます。
 
 ![概要の図](overview.png)
 

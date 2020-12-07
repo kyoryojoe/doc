@@ -23,4 +23,4 @@ KyoRyoJoeを利用するにあたり、その他必要なデバイスやソフ�
 
 KyoRyoJoe改善のためのご意見、改善したコードの提案など、積極的にお寄せいただけますと大変助かります。
 
-* [Issues | kyoryojoe](https://github.com/kyoryojoe/app/issues)
+* [Issues | kyoryojoe/app](https://github.com/kyoryojoe/app/issues)
