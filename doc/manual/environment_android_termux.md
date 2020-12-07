@@ -1,4 +1,4 @@
-動作環境/Termux on Android上に構築する
+Termux on Android上にKyoRyoJoeを構築する
 ========================================
 
 内部ストレージの拡張
@@ -56,5 +56,6 @@ Termuxインストール
 * Androidで音声入力を行う
 * Androidで手書き入力を行う
 * Androidの内部ストレージをSDカードで拡張する
+* 環境ごとにAndroid設定を自動で切り替える方法
 
 * 動作実績のある機器

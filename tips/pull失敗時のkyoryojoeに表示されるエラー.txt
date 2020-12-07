@@ -1,0 +1,7 @@
+junme2のpullに失敗しました: git "--git-dir=C:/Users/default.MYCOMPUTER/Documents/pg/kyoryojoe-app/public/inspects/repositories/junme2/.git" "--work-tree=C:/Users/default.MYCOMPUTER/Documents/pg/kyoryojoe-app/public/inspects/repositories/junme2" "-c" "color.ui=false" pull "origin" "master" 2>&1:From https://github.com/yamahei/samplejunme
+* branch master -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+bridge1/b85e760fc7040670/inspect.yaml
+Please commit your changes or stash them before you merge.
+Updating ea6fdc5..0ff8f2c
+Aborting
