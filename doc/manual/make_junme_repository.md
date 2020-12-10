@@ -28,19 +28,20 @@ GitHubは無料アカウントでも無条件と言ってよいほど緩い制�
 KyoRyoJoeは巡目ごとにリポジトリを作成してデータを管理します。
 （つまり、5年に1回この作業を行います）
 
-以下のドキュメントを参照して、リポジトリを作成してください。
+以下のドキュメントを参照して、空のリポジトリを作成してください。
 
 * [新しいリポジトリの作成 | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 
 ### Git管理についての補足
 
-* リポジトリ名は「junme1（1は何巡目かを表す数字）」とするのが無難です
-  * 1巡目のリポジトリを2巡目として読み込むことはできません
+リポジトリ名は「junme1（1は何巡目かを表す数字）」とするのが無難です
+* 1巡目のリポジトリを2巡目としてKyoRyoJoeに読み込むことはできません
   * 厳密にはできますが、エラーになり使えません
-* リポジトリはPublicでもPrivateでも構いません。
-  * Publicは誰でも参照できます（変更はできません）
-  * Privateは許可されたユーザのみ参照、更新できます
-  * Public/Privateは後から変更できます
+
+リポジトリはPublicでもPrivateでも構いません。
+* Publicは誰でも参照できます（変更はできません）
+* Privateは許可されたユーザのみ参照、更新できます
+* Public/Privateは後から変更できます
 
 橋一覧データのコミット
 ----------------------
@@ -52,3 +53,12 @@ KyoRyoJoeは巡目ごとにリポジトリを作成してデータを管理し�
 * [ファイルをリポジトリに追加する | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository)
 
 ドキュメントにも記載されていますが、コミット操作が必要です。
+
+### 橋一覧データについての補足
+
+橋一覧データはいつでも変更可能です
+* Git管理なので、変更履歴が残ります
+* 点検時点の状態は点検データ内にも保存されます
+
+翌巡目にリポジトリを作成する際にも橋一覧データのコミットが必要です
+* 前の巡目の橋一覧データをコピーすればよいです
