@@ -30,7 +30,7 @@ KyoRyoJoe内部で利用するため、CSVをYAMLに変換する必要があり�
 * [CSV | Wikipedia](https://ja.wikipedia.org/wiki/Comma-Separated_Values)
 * [YAML | Wikipedia](https://ja.wikipedia.org/wiki/YAML)
 
-以下の変換サービスを利用すると、プログラミングせずにCSVをYAMLに変換できます。
+以下の変換サービスを利用すると、簡単にCSVをYAMLに変換できます。
 
 * [Convert CSV to YAML](https://www.convertcsv.com/csv-to-yaml.htm)
 
