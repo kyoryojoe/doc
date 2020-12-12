@@ -56,7 +56,7 @@ memo: その打ち消す
 
 ### Linux
 
-* 評判が良い本
+* 非エンジニアにも評判が良い本
   * [入門者のLinux](https://www.amazon.co.jp/dp/4062579898)
   * [6日間で楽しく学ぶLinuxコマンドライン入門](https://www.amazon.co.jp/dp/4844396617/)
 
@@ -68,8 +68,6 @@ memo: その打ち消す
   * [【5年保証】Gigastone Micro SD Card 64GB A1 V30 SDXC UHS-I U3 C10 Class](https://www.amazon.co.jp/dp/B07P9TY25X/)
 
 * 試してみたいAndroid端末
-  * [Ulefone Armor X7 PRO](https://www.amazon.co.jp/dp/B088ZDQX3M/)
-  * [OUKITEL WP8 Pro](https://www.amazon.co.jp/dp/B08LQQ1C1R/)
+  * [OUKITEL WP5 Pro](https://www.amazon.co.jp/dp/B082LX2ZVJ/)
+  * [Blackview BV6300 Pro](https://www.amazon.co.jp/dp/B08DJ34MN5/)
 
-* 折りたたみBluetoothキーボード
-  * [JTT Online Bookey Stick](https://www.amazon.co.jp/dp/B077N3QF1S)
