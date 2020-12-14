@@ -1,0 +1,22 @@
+KyoRyoJoeエラー
+
+点検データのcommit, pushに失敗しました: junme2のcommit, pushに失敗しました: git "--git-dir=C:/Users/default.MYCOMPUTER/Documents/pg/kyoryojoe-app/public/inspects/repositories/junme2/.git" "--work-tree=C:/Users/default.MYCOMPUTER/Documents/pg/kyoryojoe-app/public/inspects/repositories/junme2" "-c" "color.ui=false" push "origin" "master" 2>&1:remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/yamahei/samplejunme.git/'
+
+状態
+	コミットまで、プッシュできてない
+	（ステージングされて検出できない）
+
+修正方法
+	gitのURLを修正する
+
+$ cd ~/kyoryojoe-app/public/inspects/repositories
+$ cd junme2
+$ vim .git/comfig
+
+[remote "origin"]
+-	url = https://yamaorii%40gmail.com:hn4bok6v@github.com/yamahei/samplejunme.git
++	url = https://yamaorii%40gmail.com:hn4bok6vXX@github.com/yamahei/samplejunme.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+
+$ git push
