@@ -8,9 +8,9 @@
 
 * 配置されている巡目の点検データ一覧が表示されます。
   リンクをクリックすると、選択した巡目で[橋梁一覧画面](list_page.md)に遷移します。
-* <img src="capture_work_empty_list.png" width="128" />
+* <img src="capture_work_empty_list.png" width="256" />
   まだ点検データを配置していない場合「リポジトリがありません。」と表示されます。
-* <img src="capture_work_need_sync.png" width="128" />
+* <img src="capture_work_need_sync.png" width="256" />
   点検データがサーバに同期されていない巡目には「[同期してください]」と表示されます。
 
 【注意】
