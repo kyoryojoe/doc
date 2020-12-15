@@ -9,30 +9,28 @@ TODO: クイックスタートは一通り書き終えてから
 ### データ作成/セットアップ
 
 1. まず、点検対象となる橋梁の一覧データを作成します
-   * [橋梁データの作成](manual/make_bridge_data.md)
+   * [橋梁データの作成](manual/setup/make_bridge_data.md)
 
 1. 巡目ごとにGitリポジトリを作成する必要があります
-   * [巡目リポジトリの作成](manual/make_junme_repository.md)
+   * [巡目リポジトリの作成](manual/setup/make_junme_repository.md)
 
 1. 事務所PCにKyoRyoJoeをインストールします
-   * [PC上にKyoRyoJoeを構築する](manual/environment_pc.md)
+   * [PC上にKyoRyoJoeを構築する](manual/setup/environment_pc.md)
 
 1. Android端末にKyoRyoJoeをインストールします
-   * [Android(Termux)上にKyoRyoJoeを構築する](manual/environment_android_termux.md)
+   * [Android(Termux)上にKyoRyoJoeを構築する](manual/setup/environment_android_termux.md)
 
 ### KyoRyoJoeの操作
 
-1. 業務選択/ツール画面
-   1. 巡目リポジトリをKyoRyoJoeに配置する
-   1. KyoRyoJoeから巡目リポジトリを削除する
+* [業務選択/ツール画面](manual/operation/work_page.md)
 
-1. 橋梁一覧画面
+* [橋梁一覧画面](manual/operation/list_page.md)
 
-1. 橋梁詳細画面
+* [橋梁詳細画面](manual/operation/bridge_page.md)
 
-1. 点検画面
+* [点検画面](manual/operation/inspect_page.md)
 
-1. 判定画面
+* [判定画面](manual/operation/check_page.md)
 
 
 
