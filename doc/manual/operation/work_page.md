@@ -1,16 +1,16 @@
 業務選択/ツール画面
 ===============
 
-<img src="capture_work_page.png" style="float: right; max-width: 256px; margin-left: 2rem;">
+<img src="capture_work_page.png" width="256" />
 
 業務選択
 --------
 
 * 配置されている巡目の点検データ一覧が表示されます。
   リンクをクリックすると、選択した巡目で[橋梁一覧画面](list_page.md)に遷移します。
-* <img alt="リポジトリがありません" src="capture_work_empty_list.png" style="float: left; max-width: 128px; margin-right: 1rem;">
+* <img src="capture_work_empty_list.png" width="128" />
   まだ点検データを配置していない場合「リポジトリがありません。」と表示されます。
-* <img alt="同期してください" src="capture_work_need_sync.png" style="float: left; max-width: 128px; margin-right: 1rem;">
+* <img src="capture_work_need_sync.png" width="128" />
   点検データがサーバに同期されていない巡目には「[同期してください]」と表示されます。
 
 【注意】
