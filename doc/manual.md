@@ -20,6 +20,9 @@ TODO: クイックスタートは一通り書き終えてから
 1. Android端末にKyoRyoJoeをインストールします
    * [Android(Termux)上にKyoRyoJoeを構築する](manual/setup/environment_android_termux.md)
 
+1. 巡目リポジトリを点検端末に配置します
+   * [巡目リポジトリのクローン](manual/setup/clone_junme_repository.md)
+
 ### KyoRyoJoeの操作
 
 * [業務選択/ツール画面](manual/operation/work_page.md)
