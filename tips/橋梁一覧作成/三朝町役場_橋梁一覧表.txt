@@ -1,0 +1,9 @@
+三朝町役場のサイトで橋梁一覧データ(PDF)が公開されてた
+http://www.town.misasa.tottori.jp/
+http://www.town.misasa.tottori.jp/files/4582.pdf
+
+変換サービスでExcel化する
+https://www.sodapdf.com/ja/pdf-to-excel/
+
+ドキュメントに沿ってデータ作成
+https://github.com/kyoryojoe/doc/blob/main/doc/manual/setup/make_bridge_data.md

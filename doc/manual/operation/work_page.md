@@ -1,7 +1,7 @@
 業務選択/ツール画面
 ===============
 
-<img src="capture_work_page.png" width="256" />
+<img src="capture_work_page.png" width="320" />
 
 業務選択
 --------

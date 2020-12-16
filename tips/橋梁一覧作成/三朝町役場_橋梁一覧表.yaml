@@ -1,0 +1,913 @@
+---
+-
+    id: 3427
+    bridge_name: 新三朝橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 山田横手線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1968
+    bridge_length: 72.6
+    bridge_width: 12.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3440
+    bridge_name: かじか橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 市ケ坪線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1998
+    bridge_length: 65
+    bridge_width: 5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3420
+    bridge_name: 恋谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 恋谷線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1987
+    bridge_length: 69.46
+    bridge_width: 16
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3419
+    bridge_name: 波伯山橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 余戸波伯山線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1967
+    bridge_length: 32
+    bridge_width: 4.9
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3424
+    bridge_name: 川坂橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 川坂線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1969
+    bridge_length: 34
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3429
+    bridge_name: わかとり橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 大瀬本泉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1981
+    bridge_length: 78
+    bridge_width: 19
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3423
+    bridge_name: 新美の田橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 三朝中学校線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1979
+    bridge_length: 50
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3422
+    bridge_name: 美の田橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 大瀬本泉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1984
+    bridge_length: 33.4
+    bridge_width: 19.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3421
+    bridge_name: 横手橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 粟谷線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1972
+    bridge_length: 93
+    bridge_width: 9.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3412
+    bridge_name: 湯谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 湯谷本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1968
+    bridge_length: 70.5
+    bridge_width: 6.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3411
+    bridge_name: 赤松橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 赤松線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1971
+    bridge_length: 62.1
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3410
+    bridge_name: 久鳥橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 赤松本泉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1968
+    bridge_length: 73.2
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3409
+    bridge_name: 恩地橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 恩地中央線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1973
+    bridge_length: 82.7
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3401
+    bridge_name: 森脇橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 下西谷森脇線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1981
+    bridge_length: 45
+    bridge_width: 5.9
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3402
+    bridge_name: 安水橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 穴鴨曹源寺線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 2001
+    bridge_length: 68
+    bridge_width: 5.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3403
+    bridge_name: 大渡橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 穴鴨本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1980
+    bridge_length: 80
+    bridge_width: 13.75
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3414
+    bridge_name: 下谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 下谷本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 2003
+    bridge_length: 30
+    bridge_width: 10
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3415
+    bridge_name: 大島橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 大島線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1967
+    bridge_length: 68.4
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3404
+    bridge_name: 穴鴨橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 穴鴨本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1951
+    bridge_length: 29.4
+    bridge_width: 10.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3406
+    bridge_name: 下畑2号橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 下畑線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1973
+    bridge_length: 17.5
+    bridge_width: 4.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3407
+    bridge_name: 向渡橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 向田線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1966
+    bridge_length: 18
+    bridge_width: 4.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3408
+    bridge_name: 下庄橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 久原本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1974
+    bridge_length: 15.4
+    bridge_width: 5.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3413
+    bridge_name: 吉尾橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 吉尾本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1970
+    bridge_length: 22
+    bridge_width: 7.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3416
+    bridge_name: 虹鱒橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 虹鱒線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1982
+    bridge_length: 21
+    bridge_width: 5.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3434
+    bridge_name: 小鹿橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 実光神倉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1978
+    bridge_length: 61
+    bridge_width: 13.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3425
+    bridge_name: 大山橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 大山線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1986
+    bridge_length: 16
+    bridge_width: 3.9
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3426
+    bridge_name: 木地山橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 木地山線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1957
+    bridge_length: 24.2
+    bridge_width: 11.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3428
+    bridge_name: 坪谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 宝太神線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1980
+    bridge_length: 16.7
+    bridge_width: 5.7
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3430
+    bridge_name: 福本橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 福本本線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1966
+    bridge_length: 22
+    bridge_width: 12.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3431
+    bridge_name: 戎橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 実光神倉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1977
+    bridge_length: 16.5
+    bridge_width: 13.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3432
+    bridge_name: 鉛山橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 実光神倉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1980
+    bridge_length: 17
+    bridge_width: 17.1
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3433
+    bridge_name: 良ノ谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 実光神倉線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1979
+    bridge_length: 14.5
+    bridge_width: 13.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3435
+    bridge_name: 一号中古屋橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 中古屋小坂線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1958
+    bridge_length: 20.2
+    bridge_width: 11.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 3436
+    bridge_name: 二号中古屋橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 中古屋小坂線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1956
+    bridge_length: 20.2
+    bridge_width: 10.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 5013
+    bridge_name: 粟谷橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 三朝横手線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1990
+    bridge_length: 32
+    bridge_width: 13.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 5035
+    bridge_name: 向滝橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 下古屋線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1951
+    bridge_length: 15
+    bridge_width: 5.1
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 5037
+    bridge_name: 吉原橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 吉原線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1962
+    bridge_length: 28
+    bridge_width: 12.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
+-
+    id: 5038
+    bridge_name: 門前橋
+    bridge_name_kana: 
+    address: 
+    address_kana: 
+    location_latitude: 
+    location_longitude: 
+    route_name: 門前線
+    road_condition: 
+    alternative_road: 
+    road_division_cd: 
+    emergency_transport_road: 
+    traffic_volume: 
+    occupied_property: 
+    occupied_property_name: 
+    construction_year: 1989
+    bridge_length: 50
+    bridge_width: 9.5
+    load_limit: 
+    number_of_piers: 
+    number_of_spans: 
+    number_of_griders: 
+    number_of_beams: 
