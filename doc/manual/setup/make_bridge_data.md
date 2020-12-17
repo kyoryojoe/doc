@@ -27,12 +27,14 @@ CSVヘッダを元に橋梁データの一覧を作成してください。
 
 KyoRyoJoe内部で利用するため、CSVをYAMLに変換する必要があります。
 
-* [CSV | Wikipedia](https://ja.wikipedia.org/wiki/Comma-Separated_Values)
-* [YAML | Wikipedia](https://ja.wikipedia.org/wiki/YAML)
-
 以下の変換サービスを利用すると、簡単にCSVをYAMLに変換できます。
 
 * [Convert CSV to YAML](https://www.convertcsv.com/csv-to-yaml.htm)
+
+【参考】
+* [CSV | Wikipedia](https://ja.wikipedia.org/wiki/Comma-Separated_Values)
+* [YAML | Wikipedia](https://ja.wikipedia.org/wiki/YAML)
+
 
 橋梁一覧データをリポジトリに追加する
 -----------------------------------
