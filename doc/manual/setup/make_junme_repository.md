@@ -22,7 +22,7 @@ GitHubは無料アカウントでも無条件と言ってよいほど緩い制�
 
 SSH公開鍵を登録してください。鍵は[ツール/SSH公開鍵確認](../operation/work_page.md#SSH公開鍵確認)から確認します。
 * 【参考】[GitHub アカウントへの新しい SSH キーの追加 | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
-
+* 【注意】鍵の登録は、PC/Androidに関わらず、KyoRyoJoeをインストールしたすべての端末で行う必要があります。
 
 新規リポジトリの作成
 --------------------

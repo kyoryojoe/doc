@@ -58,7 +58,3 @@ Android(Termux)でのKyoRyoJoe構築はここまでです。
 * Termuxを常駐（起動しっぱなし）させる方法
 * Androidで音声入力を行う
 * Androidで手書き入力を行う
-* Androidの内部ストレージをSDカードで拡張する
-* 環境ごとにAndroid設定を自動で切り替える方法
-
-* 動作実績のある機器
