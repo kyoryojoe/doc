@@ -12,6 +12,7 @@ Windows・Mac・LinuxにKyoRyoJoeを構築する手順です。
    * Rubyインストール後に↓のコマンドを実行する
    * `gem install bundler`
 
+
 ソースコードの取得と実行
 ------------------------
 
@@ -23,6 +24,16 @@ Windows・Mac・LinuxにKyoRyoJoeを構築する手順です。
 1. 実行（起動）
    * `bundle exec ruby app.rb`
    * ブラウザから`http://localhost:4567/`にアクセスする
+
+鍵の生成
+--------
+
+* 鍵を生成する
+  * `ssh-keygen -t rsa`
+* コマンド`ssh-keygen`は、OpenSSHがインストールされている必要があります。
+  * Windowsの場合、Gitインストール時にGitBash共々入ります
+  * mac、Linuxの場合、最初から入ってる？（要調査
+
 
 その後の操作
 ------------

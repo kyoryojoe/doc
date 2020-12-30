@@ -6,13 +6,14 @@ KyoRyoJoeをインストールした端末に、必要な巡目リポジトリ�
 * 端末ストレージの容量の制限に応じて巡目リポジトリを選択してください。
 * 今巡目、前巡目のリポジトリが配置されていると、比較しながら点検が行えて便利です。
 
+
 画面からクローン操作を行う
 --------------------------
 
 業務選択/ツール画面から[巡目リポジトリ配置](../operation/work_page.md#巡目リポジトリ配置)を行えます。
 
-コマンドライン操作
-------------------
+コマンドラインからクローン操作を行う
+------------------------------------
 
 1. リポジトリ管理ディレクトリに移動します
    * `cd //kyoryojoe-app/public/inspects/repositories`
@@ -20,14 +21,9 @@ KyoRyoJoeをインストールした端末に、必要な巡目リポジトリ�
      環境に合わせて変更してください。
      * Android(Termux)の場合は`~/kyoryojoe/public/inspects/repositories`です。
 1. 巡目リポジトリをクローンします(コマンド例は2巡目)
-   * `git clone https://URL.TO.REPOSITORY/junme2.git junme2`
-     * リポジトリのURLはご自身のリポジトリに合わせて変更してください
+   * `git clone git@github.com:USERNAME/REPOSITORY.git junme2`
+     * リポジトリのパスはご自身のリポジトリに合わせて変更してください
        * [リポジトリをクローンする | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-     * Privateリポジトリの場合、認証を求められます。
-
-【注意】
-* 上記の手順には認証操作が含まれていません。
-* リポジトリURLに認証情報を含まない場合、業務選択/ツール画面からの[点検データ同期](../operation/work_page.md#点検データ同期)は行えません。
 
 
 【補足】巡目リポジトリの削除

@@ -11,22 +11,24 @@
 GitHubアカウントの作成（最初の一回）
 ------------------------------------
 
-点検データは[Git](https://git-scm.com/)で管理することを想定しています。
+点検データは[Git](https://git-scm.com/)で管理します。
 [GitHub](https://github.com/)アカウントを作成してください。
 
 開発・確認はGitHubにて行っており、ドキュメントもGitHub利用を前提として書いています。
 他のGit（サービス）でも動作すると思われますが、未確認です。
 
 GitHubは無料アカウントでも無条件と言ってよいほど緩い制限でリポジトリ（データ）を管理できますが、この状況が変更される可能性はゼロではありません。
-
 * [私のディスク容量はいくつですか？ | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/managing-large-files/what-is-my-disk-quota)
+
+SSH公開鍵を登録してください。鍵は[ツール/SSH公開鍵確認](../operation/work_page.md#SSH公開鍵確認)から確認します。
+* 【参考】[GitHub アカウントへの新しい SSH キーの追加 | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 
 新規リポジトリの作成
 --------------------
 
 KyoRyoJoeは巡目ごとにリポジトリを作成してデータを管理します。
-（つまり、5年に1回この作業を行います）
+つまり、5年に1回この作業を行います。
 
 以下のドキュメントを参照して、空のリポジトリを作成してください。
 
@@ -34,18 +36,12 @@ KyoRyoJoeは巡目ごとにリポジトリを作成してデータを管理し�
 
 ### Git管理についての補足
 
-リポジトリ名は「junme1（1は何巡目かを表す数字）」とするのが無難です
-* 1巡目のリポジトリを2巡目としてKyoRyoJoeに読み込むことはできません
-  * 厳密にはできますが、エラーになり使えません
-
-リポジトリはPublicでもPrivateでも構いません。
-* Publicは誰でも参照できます（変更はできません）
-* Privateは許可されたユーザのみ参照、更新できます
-* Public/Privateは後から変更できます
-
 複数の端末を利用する場合、ブランチの運用がおすすめです
 * Android端末上で競合すると解決に手間取ります
 * データのマージは常にPC上で行う運用が安全です
+* 【参考】[GITブランチの作成と運用](../tips/git_branch.md)
+
+
 
 橋一覧データのコミット
 ----------------------
@@ -55,14 +51,10 @@ KyoRyoJoeは巡目ごとにリポジトリを作成してデータを管理し�
 以下のドキュメントを参照して、 **リポジトリの直下に** ファイルを追加してください。
 
 * [ファイルをリポジトリに追加する | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository)
-
-ドキュメントにも記載されていますが、コミット操作が必要です。
+* 【注意】ドキュメントにも記載されていますが、コミット操作が必要です。
 
 ### 橋一覧データについての補足
 
-橋一覧データはいつでも変更可能です
+橋一覧データはいつでも変更できます
 * Git管理なので、変更履歴が残ります
 * 点検時点の状態は点検データ内にも保存されます
-
-翌巡目にリポジトリを作成する際にも橋一覧データのコミットが必要です
-* 前の巡目の橋一覧データをコピーすればよいです
