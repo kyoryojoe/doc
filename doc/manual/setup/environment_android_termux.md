@@ -20,9 +20,9 @@ Termuxインストール
 1. インストールしたTermuxを起動します。
    * Termux上で以下のコマンドを実行します
    * `pkg update -y`
-     * Termuxを最新化するコマンドです。時々応答を求められますので、何も入力せずに`[Enter]`入力してください。
+     * Termuxを最新化するコマンドです。時々応答を求められますので、何も入力せずに`[Enter]`入力してください
    * `termux-setup-storage`
-     * Termuxのファイルシステムを初期化するコマンド？みたいです。Androidからストレージアクセスの許可を求められた場合は許可してください。
+     * Termuxのファイルシステムを初期化するコマンド？みたいです。Androidからストレージアクセスの許可を求められた場合は許可してください
 
 
 セットアップスクリプトの実行
@@ -30,6 +30,7 @@ Termuxインストール
 
 1. Termux上で以下のコマンドを実行します
    * `eval "$(curl https://raw.githubusercontent.com/kyoryojoe/app/main/bin/setup_termux.sh)"`
+   * 時々応答を求められますので、何も入力せずに`[Enter]`入力してください
    * ↑の入力が面倒な場合は↓のQRコードを読取って、Termux上に貼り付けます
    * ![セットアップスクリプト](qrcode_setup_termux.png)
 1. 5分ほどで「セットアップが完了しました」と表示されます

@@ -15,13 +15,13 @@ KyoRyoJoeをインストールした端末に、必要な巡目リポジトリ�
 ------------------------------------
 
 1. リポジトリ管理ディレクトリに移動します
-   * `cd //kyoryojoe-app/public/inspects/repositories`
-     * KyoRyoJoeルートディレクトリを`//kyoryojoe-app`と記載しています。
+   * `cd //kyoryojoe/public/inspects/repositories`
+     * KyoRyoJoeルートディレクトリを`//kyoryojoe`と記載しています。
      環境に合わせて変更してください。
      * Android(Termux)の場合は`~/kyoryojoe/public/inspects/repositories`です。
 1. 巡目リポジトリをクローンします(コマンド例は2巡目)
    * `git clone git@github.com:USERNAME/REPOSITORY.git junme2`
-     * リポジトリのパスはご自身のリポジトリに合わせて変更してください
+     * リポジトリのURLはご自身のリポジトリに合わせて変更してください
        * [リポジトリをクローンする | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
