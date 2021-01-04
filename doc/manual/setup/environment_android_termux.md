@@ -30,7 +30,8 @@ Termuxインストール
 
 1. Termux上で以下のコマンドを実行します
    * `eval "$(curl https://raw.githubusercontent.com/kyoryojoe/app/main/bin/setup_termux.sh)"`
-   * 時々応答を求められますので、何も入力せずに`[Enter]`入力してください
+     * GitHubアカウントのメールアドレス入力が求められます
+     * それ以外にも時々応答を求められますので、何も入力せずに`[Enter]`入力してください
    * ↑の入力が面倒な場合は↓のQRコードを読取って、Termux上に貼り付けます
    * ![セットアップスクリプト](qrcode_setup_termux.png)
 1. 5分ほどで「セットアップが完了しました」と表示されます
@@ -52,7 +53,7 @@ Android(Termux)でのKyoRyoJoe構築はここまでです。
 
 
 
-その他（TODO: 
+その他（TODO:
 -----
 
 * Termuxを自動起動させる方法
