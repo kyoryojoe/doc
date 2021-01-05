@@ -29,7 +29,9 @@ KyoRyoJoeはAndroid端末を利用して橋梁点検を行います。
 ----
 
 * [KyoRyoJoe利用マニュアル](doc/manual.md)
-  * 利用マニュアル
+  * クイックスタート
+  * データ作成/セットアップ
+  * KyoRyoJoeの操作
 * [背景・動機・目的](doc/background.md)
   * KyoRyoJoe開発に至った背景・動機・目的
 * [開発に関する情報](doc/development.md)

@@ -16,10 +16,7 @@ GitHubアカウントの作成（最初の一回）
 
 開発・確認はGitHubにて行っており、ドキュメントもGitHub利用を前提として書いています。
 他のGit（サービス）でも動作すると思われますが、未確認です。
-<!--
-GitHubは無料アカウントでも無条件と言ってよいほど緩い制限でリポジトリ（データ）を管理できますが、この状況が変更される可能性はゼロではありません。
-* [私のディスク容量はいくつですか？ | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/managing-large-files/what-is-my-disk-quota)
--->
+
 
 ### SSH公開鍵の登録
 KyoRyoJoeインストール後、SSH公開鍵を登録してください。
