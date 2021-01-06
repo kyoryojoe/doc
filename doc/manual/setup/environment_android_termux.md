@@ -5,12 +5,12 @@ Android(Termux)上にKyoRyoJoeを構築する
 Android端末と周辺機器の準備
 ---------------------------
 
-* [Androidの内部ストレージをSDカードで拡張する](../tips/expand_android_storade.md)
-  * 橋梁点検データ（写真）はAndroidストレージを圧迫するため、拡張することをお勧めします。
-* [動作実績のあるAndroid端末](../tips/confirmed_devices.md)
-  * Androidは機種の差が大きいので、ご参考までに動作確認が取れた機種を紹介しています。
-* Bluetoothキーボード
-  * Termuxのコマンド操作は物理キーボードがあると便利です。
+* 橋梁点検データ（写真）はAndroidストレージを圧迫するため、拡張することをお勧めします。
+  * [Androidの内部ストレージをSDカードで拡張する](../tips/expand_android_storade.md)
+* Androidは機種の差が大きいので、ご参考までに動作確認が取れた機種を紹介しています。
+  * [動作実績のあるAndroid端末](../tips/confirmed_devices.md)
+* Termuxのコマンド操作は物理キーボードがあると便利です。
+  * Bluetoothキーボード
 
 Termuxインストール
 -------------

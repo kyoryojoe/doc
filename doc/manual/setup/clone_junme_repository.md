@@ -21,8 +21,8 @@ KyoRyoJoeをインストールした端末に、必要な巡目リポジトリ�
      * Android(Termux)の場合は`~/kyoryojoe/public/inspects/repositories`です。
 1. 巡目リポジトリをクローンします(コマンド例は2巡目)
    * `git clone git@github.com:USERNAME/REPOSITORY.git junme2`
-     * リポジトリのURLはご自身のリポジトリに合わせて変更してください
-       * [リポジトリをクローンする | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+   * リポジトリのURLはご自身のリポジトリに合わせて変更してください
+     * [リポジトリをクローンする | GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
 【補足】巡目リポジトリの削除
